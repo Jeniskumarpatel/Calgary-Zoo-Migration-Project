@@ -1,4 +1,4 @@
-# Folder Structure
+Year- (2023)
 
 - Articles/
   - BGISCapstoneProjectHandbook_2022.pdf
@@ -13,29 +13,28 @@
   - virtual_campus_system.pdf
 
 - **Calgary_Zoo_Navigation/**
-  # Folder Structure
+
 
   - **Calgary_Zoo_Navigation/**
-    # Folder Structure
+
 
     - **.backups/**
-      # Folder Structure
+ 
 
     - BGIS_DT_S23_Sandbox.sde
     - **Calgary_Zoo_Image/**
-      # Folder Structure
+   
 
     - Calgary_Zoo_Image.zip
     - Calgary_Zoo_Navigation.aprx
     - Calgary_Zoo_Navigation.atbx
     - **Calgary_Zoo_Navigation.gdb/**
-      # Folder Structure
 
     - **Field_Mapping.gdb/**
-      # Folder Structure
+  
 
     - **Geodatabase/**
-      # Folder Structure
+
 
     - Geodatabase.zip
     - **GpMessages/**
